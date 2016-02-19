@@ -1,5 +1,5 @@
 #rpy-ecg
-#### A Python ECG for the Raspberry Pi
+### A Python ECG for the Raspberry Pi
 
 
 #####FEATURES
@@ -12,9 +12,9 @@
 
 #####DESCRIPTION
 ---
-* ekgui.py: main script, spawns GUI and threads
-* hardwareADCread.py: facilitates reading from ADC through SPI
-* /ekgui: contains the GUI (ekgui.ui) and files for editing in Qt Creator
+* `ekgui.py`: main script, spawns GUI and threads
+* `hardwareADCread.py`: facilitates reading from ADC through SPI
+* `/ekgui`: contains the GUI (ekgui.ui) and files for editing in Qt Creator
 
 #####DEPENDENCIES
 ---
