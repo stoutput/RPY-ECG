@@ -1,6 +1,6 @@
-#rpy-ecg 
-####Python ECG for the Raspberry Pi
----
+#rpy-ecg
+#### A Python ECG for the Raspberry Pi
+
 
 #####FEATURES
 ---
