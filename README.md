@@ -1,4 +1,4 @@
-#rpy-ecg
+#RPY-ECG
 ### A Python ECG for the Raspberry Pi
 
 
