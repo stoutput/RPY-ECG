@@ -17,4 +17,6 @@ SOURCES += main.cpp\
 
 HEADERS  += ekgui.h
 
-FORMS    += ekgui.ui
+FORMS    += \
+    ekg.ui \
+    options.ui
