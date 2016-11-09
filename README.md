@@ -21,3 +21,4 @@
 * [Pyqtgraph](http://www.pyqtgraph.org/)
 * [Spidev](https://pypi.python.org/pypi/spidev)
 * [Numpy](http://www.numpy.org/)
+* [H5py](http://www.h5py.org/)
