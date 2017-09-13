@@ -7,8 +7,8 @@
 * 8-channel ADC input over SPI
 * Written entirely in Python
 * Zoom in/out
-* Session saving and loading
-* Screenshot save
+* Session saving and loading (in progress)
+* Screenshot save (in progress)
 
 ##### DESCRIPTION
 ---
